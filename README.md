@@ -1,0 +1,1 @@
+EduMate - Educational Platform UI
